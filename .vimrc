@@ -15,6 +15,7 @@ set laststatus=2 | "show us bottom line - 0=never, 1=only when 2+ windows, 2=alw
 source ~/.config/pluggins.vim
 source ~/.config/pluggins-config/lightline.vim
 source ~/.config/pluggins-config/kite.vim
+source ~/.config/pluggins-config/coc.vim
 source ~/.config/maps.vim
 
 "### config coc plugin

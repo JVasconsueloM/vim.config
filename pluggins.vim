@@ -10,6 +10,7 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'itchyny/lightline.vim'
 " permit work with git
 Plug 'tpope/vim-fugitive'
-"Plug 'neoclide/coc.nvim', {'branch': 'release'}"
+" Helps us with code completations 
+Plug 'neoclide/coc.nvim', {'branch': 'release'}"
 
 call plug#end()
